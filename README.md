@@ -24,6 +24,7 @@ This project is a **UI/UX redesign of the Wikipedia landing page**, created as p
 
 ## 📷 Preview
 
+![Image](https://github.com/user-attachments/assets/6e03d4e6-cf5a-4e5a-bd5d-b975f1a0ecfb)
 
 ## 🎬 Demo Video (Optional)  
 
